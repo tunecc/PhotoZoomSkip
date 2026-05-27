@@ -1,0 +1,9 @@
+Package: com.tune.photozoomskip
+Name: PhotoZoomSkip
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: 照片直接删除和无限放大，抄的蜗牛的PhotoSkipDelAndInfiniteZoom
+Maintainer: tune
+Author: tune
+Section: Tweaks
+Depends: mobilesubstrate
